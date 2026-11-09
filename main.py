@@ -71,7 +71,7 @@ def get_uptime():
 BOT_TOKEN = '9033545356:AAENqe7Vixrf70K1R-G0ZsRS1dZA9NlLXFc'
 OWNER_ID = 8416917212
 ADMIN_ID = 8978564222
-YOUR_USERNAME = '@Godxpainx'
+YOUR_USERNAME = '@mikeykunnx'
 UPDATE_CHANNEL = 'https://t.me/mikeykun_x'
 
 # ==================== SAMBANOVA AI CONFIGURATION ====================
